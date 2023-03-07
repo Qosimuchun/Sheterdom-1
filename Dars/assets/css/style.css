@@ -1,0 +1,140 @@
+ul, ol {
+    list-style: none;
+}
+
+body {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+.hom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px 0;
+}
+
+.ptich {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.promo {
+    font-size: 15px;
+    font-weight: 400;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    transition: 0.4s;
+}
+
+.promo:hover {
+    color: #FF9900;
+}
+
+.ser {
+    margin-top: -4px;
+    margin-left: 5px;
+}
+
+.today {
+    margin-right: 300px;
+}
+
+.promotion {
+    margin-right: 30px;
+}
+
+.pro {
+    margin-left: -40px;
+}
+
+.your {
+    background-image: url(../img/Ellipse\ 257.svg);
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+}
+
+.asas {
+    margin-bottom: 60px;
+}
+
+.global {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.font {
+    font-size: 24px;
+    margin-left: 10px;
+    margin-bottom: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.get {
+    border: 1px solid #FF9900;
+    border-radius: 15px;
+    color: white;
+    padding: 15px;
+    margin-left: 10px;
+    background-color: #FF9900;
+    transition: 0.4s;
+}
+
+.get:hover {
+    color: #c300ff;
+    background-color: aliceblue;
+    border: 1px solid #c300ff;
+}
+
+.son {
+    width: 400px;
+}
+
+.yolgiz {
+    width: 80px;
+    margin: 30px 525px;
+}
+
+.your {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.our {
+    font-size: 25px;
+    font-weight: 600;
+    color: aquamarine;
+}
+
+.you {
+    font-size: 35px;
+}
+
+.we {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.tush {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.yil {
+    text-align: center;
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+    background-color: white;
+    padding: 30px;
+    transition: 0.5s;
+}
+
+.yil:hover {
+    box-shadow: 0 0 25px 0 #999;
+}
